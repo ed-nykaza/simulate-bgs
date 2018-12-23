@@ -1,5 +1,5 @@
 # simulate-bgs
-You can run the jupyter notebook locally using the instructions below, or you can use binder
+You can run the jupyter notebook locally using the instructions below, or you can directly using this binder link:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ed-nykaza/simulate-bgs/master?filepath=https%3A%2F%2Fgithub.com%2Fed-nykaza%2Fsimulate-bgs%2Fblob%2Fmaster%2Fjust-simulate%2Fjust-simulate.ipynb)
 
 ## Getting started
