@@ -1,0 +1,7 @@
+name: simulate-env
+dependencies:
+- python=3
+- jupyter
+- pandas
+- matplotlib
+- plotly
