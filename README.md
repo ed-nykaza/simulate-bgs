@@ -1,8 +1,10 @@
 # simulate-bgs
-You can run the jupyter notebook locally using the instructions below, or you can directly run the notebook through this binder link:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ed-nykaza/simulate-bgs/master)
+You can run the jupyter notebook with this binder link (it will launch a new webpage):
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ed-nykaza/simulate-bgs/master?filepath=simulate-bgs%2Fsimulate-bgs.ipynb)
 
-Then just navigate to `simulate-bgs/simulate-bgs.ipynb`. Follow the instructions in the jupyter notebook to run the simulation.
+Follow the instructions in the jupyter notebook to run the simulation.
+
+Or, you can run the notebook locally. Here are instructions:
 
 ## Getting started
 1. Install [Miniconda](https://conda.io/miniconda.html) for your platform.
