@@ -1,5 +1,10 @@
 # simulate-bgs
 You can run the jupyter notebook with this binder link (it will launch a new webpage):
+
+Latest Verison with GUI:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ed-nykaza/simulate-bgs/master?filepath=simulate-bgs%2Fsimulate-bgs-with-gui.ipynb)
+
+Older Version:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ed-nykaza/simulate-bgs/master?filepath=simulate-bgs%2Fsimulate-bgs.ipynb)
 
 Follow the instructions in the jupyter notebook to run the simulation.
@@ -19,5 +24,5 @@ run `conda activate simulate-env` to start the environment.
 
 ## Start up a jupyter notebook
 * In your termminal run `jupyter notebook`, which will open up jupyter in your browser.
-* Navigate to `simulate-bgs/simulate-bgs.ipynb` to open up jupyter notebook.
+* Navigate to `simulate-bgs/simulate-bgs-with-gui.ipynb` or `simulate-bgs/simulate-bgs.ipynb` to open up jupyter notebook.
 * Follow the instructions in the jupyter notebook to run the simulation.
